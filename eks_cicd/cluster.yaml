@@ -12,3 +12,4 @@ nodeGroups:
     ssh:
       allow: false # if true - will use ~/.ssh/id_rsa.pub as the default ssh key
       #publicKeyPath: ~/.ssh/ec2_id_rsa.pub #you can specify the public key path likr this as well
+      #thaipa1
